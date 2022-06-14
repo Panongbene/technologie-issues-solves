@@ -4,3 +4,21 @@ Pour charger les données d'une base de données Oracle vers Hbase nous avons d�
 Le volume de données est grand sans être intraitable, la description du cluster est visible sur les schémas suivants.
 
 ![text alternatif](./1.png)
+
+
+![text alternatif](./2.png)
+
+
+![text alternatif](./3.png)
+
+
+![text alternatif](./4.png)
+
+
+![text alternatif](./5.png)
+
+
+![text alternatif](./6.png)
+
+
+
